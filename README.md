@@ -7,6 +7,10 @@
 ### Installation
 Follow the installation guide at [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2)
 
+Or install environment by conda yml:
+```bash
+conda env create -f environment.yml
+```
 ### Demo
 Run the following command to start the demo:
 ```bash
